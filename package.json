@@ -1,0 +1,15 @@
+{
+  "name": "subpackage-optimize",
+  "version": "1.0.2",
+  "description": "小程序主包优化解决方案",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/zheng-jiangyi/subpackage-optimize.git"
+  },
+  "author": "郑江艺",
+  "license": "ISC"
+}
